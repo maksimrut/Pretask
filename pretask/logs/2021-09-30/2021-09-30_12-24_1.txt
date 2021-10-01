@@ -1,0 +1,8 @@
+2021-09-30 12:24:15 [main] [sum] [17] INFO  rutkouski.pretask.service.impl.NumberServiceImpl - The sum is: 
+2021-09-30 12:24:15 [main] [subtracte] [25] INFO  rutkouski.pretask.service.impl.NumberServiceImpl - The subtraction is: 
+2021-09-30 12:24:15 [main] [myltiply] [33] INFO  rutkouski.pretask.service.impl.NumberServiceImpl - The myltiplication is: 
+2021-09-30 12:24:15 [main] [divide] [41] INFO  rutkouski.pretask.service.impl.NumberServiceImpl - The division is: 
+2021-09-30 12:24:26 [main] [sum] [17] INFO  rutkouski.pretask.service.impl.NumberServiceImpl - The sum is: 
+2021-09-30 12:24:26 [main] [subtracte] [25] INFO  rutkouski.pretask.service.impl.NumberServiceImpl - The subtraction is: 
+2021-09-30 12:24:26 [main] [myltiply] [33] INFO  rutkouski.pretask.service.impl.NumberServiceImpl - The myltiplication is: 
+2021-09-30 12:24:26 [main] [divide] [41] INFO  rutkouski.pretask.service.impl.NumberServiceImpl - The division is: 
